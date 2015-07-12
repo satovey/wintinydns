@@ -1,0 +1,1 @@
+Windows port of Dan Bernstein's public domain dns servers, tinydns and dnscache
